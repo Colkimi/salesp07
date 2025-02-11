@@ -1,7 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Colkimi.Colkimi" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+geniuses+I'm+Colkimi" alt="Typing SVG" /></a
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=700&color=F7B93E&center=true&vCenter=true&width=600&lines=👋+HELLO+THERE+GENIUSES!;🔥+I'M+COLKIMI!;💻+SOFTWARE+DEVELOPER;🛡️+CYBERSECURITY+ENTHUSIAST;🐞+BUG+BOUNTY+HUNTER;🚀+ALWAYS+LEARNING+AND+HACKING!">
+</a>
+
 </h1>
 
 <h3 align="center">A passionate software developer from Nairobi 🇨🇦</h3>
@@ -10,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **cybersecurity freelancer**
+ 🔭 I work as a **cybersecurity freelancer**
  
  🌱 I’m currently learning **Python, ML for cybersec, Bug_bounty hunting and e-hacking**
 

@@ -7,7 +7,7 @@
 
 </h1>
 
-<h3 align="center">A passionate software developer from Nairobi 🇨🇦</h3>
+<h3 align="center">A passionate software developer and cybersecurity GURU from Nairobi KENYA</h3>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 💬 Ask me all about **exploitation, vulnerability analysis, scripting, creating payloads... or anything [here](https://github.com/Colkimi/Colkimi/issues)**
 
-⚡ Fun fact **Kevin Mitnick(the first ever hacker) hacked a whole telephone line without any technology that allowed so**
+⚡ Fun fact ** By 2025, cybercrime is projected to inflict a staggering $10.5 trillion in damages globally**
 
  </div>
  
@@ -50,7 +50,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Colkimi/Colkimi/output/github-contribution-grid-snake.svg" />
+  <img  src="https://raw.githubusercontent.com/Colkimi/Colkimi/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
   
   <br/><br/><br/>
 </div>
@@ -60,9 +60,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://streak-stats.demolab.com/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 

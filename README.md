@@ -7,7 +7,7 @@
 
 </h1>
 
-<h3 align="center">A passionate software developer and cybersecurity GURU from Nairobi KENYA</h3>
+<h3 align="center">A passionate software developer and cybersecurity alchemist from Nairobi KENYA</h3>
 
 <br/>
 
@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,python,git,linux,bash,html,css,js,nodejs" />
-    <img src="https://skillicons.dev/icons?i=javascript,express,java,,sqlite,raspberrypi" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,python,bash,html,css,nodejs" />
+    <img src="https://skillicons.dev/icons?i=linux,java,javascript,raspberrypi" /><br>
 </div>
 
 <br/>
